@@ -10,3 +10,8 @@ patch-R.MPQ : New skyboxes from WotlK HD DBC files. Renamed to patch-R from patc
 patch-S.MPQ : New skyboxes from WotlK HD. Renamed to patch-X from patch-S to not overwrite epoch patching conventions\
 patch-T.MPQ : New trees from WotlK HD\
 patch-U.MPQ : HD Boneless Undead (Chinese model)
+
+# KNOWN ISSUES:
+\
+Female Tauren eyes on Project Epoch NPCs eyes are misaligned.\
+30 skins currently unaccounted for (my tools aren't telling me anything has failed to build) and I'm too slack to look for them now. You can tell me when you find one that's missing.
