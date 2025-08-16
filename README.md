@@ -5,4 +5,6 @@ patch-C.MPQ + patch-enUS-C.MPQ : HD Character models from WotlK HD, maintained b
 patch-E.MPQ : Project-Epoch NPC BakedNpcTextures (last baked August 16,2025) (792/870 built)\
 patch-F.MPQ : x2 Fishing Lure size for my old man eyes.\
 patch-O.MPQ : HD Standing Orc\
-patch-U.MPQ : HD Boneless Undead (Chinese model)
+patch-U.MPQ : HD Boneless Undead (Chinese model)\
+patch-T.MPQ : New trees from WotlK HD\
+patch-S.MPQ : New skyboxes from WotlK HD. Renamed to patch-X from patch-S to not overwrite epoch patching conventions
