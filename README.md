@@ -13,5 +13,8 @@ patch-U.MPQ : HD Boneless Undead (Chinese model)
 
 # KNOWN ISSUES:
 \
-Female Tauren eyes on Project Epoch NPCs eyes are misaligned.\
 30 skins currently unaccounted for (my tools aren't telling me anything has failed to build) and I'm too slack to look for them now. You can tell me when you find one that's missing
+
+# DOWNLOAD LINK:
+\
+https://drive.google.com/file/d/168Zxi5x9tKxK3pAkccgL0so7wKYbnHyr/view?usp=drive_link
