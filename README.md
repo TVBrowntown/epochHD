@@ -18,3 +18,8 @@ patch-U.MPQ : HD Boneless Undead (Chinese model)
 # DOWNLOAD LINK:
 \
 https://drive.google.com/file/d/168Zxi5x9tKxK3pAkccgL0so7wKYbnHyr/view?usp=drive_link
+
+# HOTFIXES:
+\
+Please install this hotfix. Replace patch-D with this updated patch-D. This will fix Project Epoch custom item icons.\
+https://drive.google.com/file/d/1qiB7ZQ2eaWj05xI1fHaR9weU0C7imH5i/view?usp=drive_link
