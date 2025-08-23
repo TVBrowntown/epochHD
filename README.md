@@ -11,7 +11,7 @@ patch-U.MPQ : HD Boneless Undead (Chinese model)
 
 # KNOWN ISSUES:
 \
-30 skins currently unaccounted for (my tools aren't telling me anything has failed to build) and I'm too slack to look for them now. You can tell me when you find one that's missing
+40 skins currently unaccounted for (my tools aren't telling me anything has failed to build) and I'm too slack to look for them now. You can tell me when you find one that's missing
 
 # DOWNLOAD LINK:
 \
