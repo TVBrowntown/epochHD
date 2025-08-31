@@ -5,6 +5,10 @@ patch-C.MPQ : HD Character models from WotlK HD, maintained by Loriendal. Rename
 patch-D.MPQ : Updated CreatureDisplayInfoExtra.DBC to contain Project Epoch NPCs. Renamed patch-enUS-C.MPQ from WotlK HD to patch-D.\
 patch-E.MPQ : Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built)
 
+# HOW TO
+\
+Download all the files. Place patch-C.MPQ, patch-D.MPQ and patch-E.MPQ into epoch_live/Data - all three are required to work. If you want some extras you can also add the below.
+
 # OPTIONAL MPQs
 patch-O.MPQ : HD Standing Orc\
 patch-U.MPQ : HD Boneless Undead (Chinese model)
