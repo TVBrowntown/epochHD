@@ -25,7 +25,8 @@ Download all the files from the Gdrive AND patch-W.MPQ from the mega. Place ALL 
 # KNOWN ISSUES:
 \
 40 skins currently unaccounted for (my tools aren't telling me anything has failed to build) and I'm too slack to look for them now. You can tell me when you find one that's missing\
-The AddOn LFG works but the buttons are all covered due to patch-K.MPQ - dunno... fork it and rewrite the interface for if pretty patch is installed is on the cards.
+The AddOn LFG works but the buttons are all covered due to patch-K.MPQ - dunno... fork it and rewrite the interface for if pretty patch is installed is on the cards.\
+HD Creatures is a REAL work in progress and is DEFINITELY going to have green, white and weird textures. Feel free to make an issue in the github with a screenshot and creature ID + Name if possible.
 
 # DOWNLOAD LINKS:
 \
