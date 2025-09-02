@@ -3,7 +3,6 @@ A collection of HD Project-Epoch MPQs\
 \
 patch-4.MPQ : Appletrey's HD models\
 patch-5.MPQ : Shadowlands downports  - LOTS of stuff, even stuff we aren't using, soz\
-patch-5.MPQ : CV Patch Extras\
 patch-6.MPQ : A collection of CV Patch extras.\
 patch-7.MPQ : Ascension HD file.\
 patch-8.MPQ : Ascension HD file.\
