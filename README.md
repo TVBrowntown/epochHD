@@ -7,9 +7,7 @@ patch-6.MPQ : A collection of CV Patch extras.\
 patch-7.MPQ : Ascension HD file.\
 patch-8.MPQ : Ascension HD file.\
 patch-9.MPQ : Ascension HD file.\
-patch-C.MPQ : HD Character models from WotlK HD, maintained by Loriendal. Renamed to patch-C from patch-A to not overwrite epoch patching conventions. Updated CreatureDisplayInfoExtra.DBC to contain Project Epoch NPCs. Renamed patch-enUS-C.MPQ from WotlK HD to patch-D.\
-Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built)\
-NOTE: Finally rolled C+D+E into one. (updated September 6, 2025)\
+patch-C.MPQ : HD Character models from WotlK HD, maintained by Loriendal. Renamed to patch-C from patch-A to not overwrite epoch patching conventions. Updated CreatureDisplayInfoExtra.DBC to contain Project Epoch NPCs. Renamed patch-enUS-C.MPQ from WotlK HD to patch-D. Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built) NOTE: Finally rolled C+D+E into one. (updated September 6, 2025)\
 patch-F.MPQ : x2 sized Fishing Bobbler\
 patch-K.MPQ : s0high's pretty patch interface files for Character sheet, Spells and Battlegrounds, etc.\
 patch-L.MPQ : Lord of the Rings OST. It's a banger, trust me.\
