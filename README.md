@@ -12,7 +12,6 @@ Updated CreatureDisplayInfoExtra.DBC to contain Project Epoch NPCs. Renamed patc
 Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built)\
 NOTE: Finally rolled C+D+E into one. (updated September 6, 2025)\
 patch-F.MPQ : x2 sized Fishing Bobbler\
-patch-G.MPQ : HD Creatures and Mounts\
 patch-K.MPQ : s0high's pretty patch interface files for Character sheet, Spells and Battlegrounds, etc.\
 patch-L.MPQ : Lord of the Rings OST. It's a banger, trust me.\
 patch-O.MPQ : HD Standing Orc\
