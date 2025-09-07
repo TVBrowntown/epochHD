@@ -19,6 +19,13 @@ A collection of HD Project-Epoch MPQs\
 \
 Download **all** the files from the Gdrive. Place ALL of the files into epoch_live/Data.
 
+# DOWNLOAD EXCEEDED - HELP!
+\
+How to bypass the Google Drive download limit: \
+Step 1: Create a folder with any name e.g. gd-bypass in your personal Google Drive account.\
+Step 2: Open the epochHD link, right click on the archive, Organize -> Add shortcut and select the folder that you created earlier.\
+Step 3: Go back to “My Drive”, right click on your folder, Download.
+
 # KNOWN ISSUES:
 \
 40 skins currently unaccounted for (my tools aren't telling me anything has failed to build) and I'm too slack to look for them now. You can tell me when you find one that's missing\
