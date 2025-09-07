@@ -17,7 +17,7 @@ A collection of HD Project-Epoch MPQs\
 
 # HOW TO
 \
-Download **all** the files from the Gdrive. Place ALL of the files into epoch_live/Data.
+Download **ALL** the files from the Gdrive. Place ALL of the files into epoch_live/Data.
 
 # DOWNLOAD EXCEEDED - HELP!
 \
