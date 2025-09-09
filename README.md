@@ -7,7 +7,7 @@ A collection of HD Project-Epoch MPQs\
 **patch-7.MPQ** : Ascension HD file.\
 **patch-8.MPQ** : Ascension HD file.\
 **patch-9.MPQ** : Ascension HD file.\
-**patch-E.MPQ** : HD Character models from WotlK HD, maintained by Loriendal, with my Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built) NOTE: Finally rolled C+D+E into one. (updated September 6, 2025)\
+**patch-E.MPQ** : HD Character models from WotlK HD, maintained by Loriendal, with my Project-Epoch NPC BakedNpcTextures (861/902 built)\
 **patch-F.MPQ** : x2 sized Fishing Bobbler\
 **patch-L.MPQ** : Lord of the Rings OST. It's a banger, trust me.\
 **patch-O.MPQ** : HD Standing Orc\
@@ -17,7 +17,7 @@ A collection of HD Project-Epoch MPQs\
 
 # HOW TO
 \
-Download **ALL** the files from the Gdrive. Place ALL of the files into epoch_live/Data.
+Download **ALL** the files from the Gdrive. Place ALL of the files into epoch_live/Data. Make sure the file names are the same as the ones in the Google drive when you put them in the folder or they will not be read. (Sometimes Google adds some numbers to the end of the files when you download)
 
 # DOWNLOAD EXCEEDED - HELP!
 \
