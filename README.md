@@ -37,6 +37,6 @@ The AddOn LFG works but the buttons are all covered due to patch-K.MPQ - dunno..
 
 # CHANGELOG:
 \
-9/9/25\
-- Patch-4 - Updated to newest Appletrey HD 3.3.5a MPQ which adds a few new building models and, hopefully, fixes Rockbiter weapon model being invisible. Previous MPQ had some issues.\
+9/9/25
+- Patch-4 - Updated to newest Appletrey HD 3.3.5a MPQ which adds a few new building models and, hopefully, fixes Rockbiter weapon model being invisible. Previous MPQ had some issues.
 - Patch-E - Fixed model/texture error on Orgrimmar Grunt Shoulderpads. Now using uprezzed shoulderpads.
