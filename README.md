@@ -39,6 +39,7 @@ The AddOn LFG works but the buttons are all covered due to patch-K.MPQ - dunno..
 \
 10/9/25
 - Patch-4 - Removed Axe_2H_War_B_03.m2 and associated .blp files - Bonebiter now works correctly. There are some other items in here that I am certain won't work so I have reported them to Appletrey.
+
 9/9/25
 - Patch-4 - Updated to newest Appletrey HD 3.3.5a MPQ which adds a few new building models and, hopefully, fixes Rockbiter weapon model being invisible. Previous MPQ had some issues.
 - Patch-E - Fixed model/texture error on Orgrimmar Grunt Shoulderpads. Now using uprezzed shoulderpads.
