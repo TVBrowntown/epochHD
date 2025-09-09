@@ -7,7 +7,7 @@ A collection of HD Project-Epoch MPQs\
 **patch-7.MPQ** : Ascension HD file.\
 **patch-8.MPQ** : Ascension HD file.\
 **patch-9.MPQ** : Ascension HD file.\
-**patch-E.MPQ** : HD Character models from WotlK HD, maintained by Loriendal. Renamed to patch-C from patch-A to not overwrite epoch patching conventions. Updated CreatureDisplayInfoExtra.DBC to contain Project Epoch NPCs. Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built) NOTE: Finally rolled C+D+E into one. (updated September 6, 2025)\
+**patch-E.MPQ** : HD Character models from WotlK HD, maintained by Loriendal, with my Project-Epoch NPC BakedNpcTextures (last baked August 17, 2025) (861/902 built) NOTE: Finally rolled C+D+E into one. (updated September 6, 2025)\
 **patch-F.MPQ** : x2 sized Fishing Bobbler\
 **patch-L.MPQ** : Lord of the Rings OST. It's a banger, trust me.\
 **patch-O.MPQ** : HD Standing Orc\
@@ -37,6 +37,6 @@ The AddOn LFG works but the buttons are all covered due to patch-K.MPQ - dunno..
 
 # CHANGELOG:
 \
-9/9/25
-- Patch-4 - Updated to newest Appletrey HD 3.3.5a MPQ which adds a few new building models and, hopefully, fixes Rockbiter weapon model being invisible. Previous MPQ had some issues.
+9/9/25\
+- Patch-4 - Updated to newest Appletrey HD 3.3.5a MPQ which adds a few new building models and, hopefully, fixes Rockbiter weapon model being invisible. Previous MPQ had some issues.\
 - Patch-E - Fixed model/texture error on Orgrimmar Grunt Shoulderpads. Now using uprezzed shoulderpads.
