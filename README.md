@@ -13,6 +13,7 @@ A collection of HD Project-Epoch MPQs\
 **patch-O.MPQ** : HD Standing Orc\
 **patch-S.MPQ** : HD Skyboxes.\
 **patch-U.MPQ** : HD Boneless Undead (Chinese model)\
+**patch-W.MPQ** : Hotfixes to fix any errors due to prior MPQs including faulty/broken files\
 **patch-X.MPQ** : Kingdom of Stormwind reskin
 
 # HOW TO
@@ -37,6 +38,9 @@ The AddOn LFG works but the buttons are all covered due to patch-K.MPQ - dunno..
 
 # CHANGELOG:
 \
+12/9/25
+- Patch-W - File fixes to correct any errors due to prior MPQs including faulty/broken files - better than downloading an entire MPQ again.
+  
 10/9/25
 - Patch-4 - Removed Axe_2H_War_B_03.m2 and associated .blp files - Bonebiter now works correctly. There are some other items in here that I am certain won't work so I have reported them to Appletrey.
 
