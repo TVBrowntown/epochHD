@@ -12,6 +12,7 @@ A collection of HD Project-Epoch MPQs\
 **patch-L.MPQ** : Lord of the Rings OST. It's a banger, trust me.\
 **patch-O.MPQ** : HD Standing Orc\
 **patch-S.MPQ** : HD Skyboxes.\
+**patch-T.MPQ** : Vish's HD Creatures.\
 **patch-U.MPQ** : HD Boneless Undead (Chinese model)\
 **patch-W.MPQ** : Hotfixes to fix any errors due to prior MPQs including faulty/broken files\
 **patch-X.MPQ** : Kingdom of Stormwind reskin
@@ -38,6 +39,9 @@ The AddOn LFG works but the buttons are all covered due to patch-K.MPQ - dunno..
 
 # CHANGELOG:
 \
+13/9/25
+- Patch-T - Vish's HD creature pack for Project Epoch.
+
 12/9/25
 - Patch-W - File fixes to correct any errors due to prior MPQs including faulty/broken files - better than downloading an entire MPQ again.
   
