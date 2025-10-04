@@ -39,6 +39,9 @@ The AddOn LFG works but the buttons are all covered due to patch-K.MPQ - dunno..
 
 # CHANGELOG:
 \
+4/10/25
+- Patch-4 - Updated Patch-4 to newest Appletrey HD 3.3.5a MPQ.
+  
 13/9/25
 - Patch-T - Vish's HD creature pack for Project Epoch.
 
